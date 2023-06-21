@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "308400153751",
+    "project_id": "krabet-webview-app",
+    "storage_bucket": "krabet-webview-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308400153751:android:fea9e0279847572439f5d2",
+        "android_client_info": {
+          "package_name": "com.krabet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308400153751-q6286tl6h23ousgcgn3do0og6g50e6il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OfBvFmOsiEsHo4YYM1ImmNAr4_mqvPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308400153751-q6286tl6h23ousgcgn3do0og6g50e6il.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308400153751-gafstjg8kl638phmh5d9542hbbafvbki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.krabet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
